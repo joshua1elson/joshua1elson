@@ -3,12 +3,13 @@
 
 # Hi, I'm JoshuaHonu! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am the founder and CEO of Buyget ICT solutions.  A results-driven Information Technology(IT)  graduate from the University of Ghana with a strong foundation in security.  and backend Development. Passionate about building scalable tech solutions that solve real-world problems, particularly in security, education and modernization. Proven ability to collaborate across teams and deliver impactful results under pressure. 
+
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
+- 🔭 I'm currently studying with ALX for my backend certification. 
+- 📝 I write in-depth, long-form articles on my website [the.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
