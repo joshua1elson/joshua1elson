@@ -1,4 +1,4 @@
-![(https://www.canva.com/design/DAGrkpC5Kv4/Ry5n6y_YRqrp6ZJHtnDCsw/edit?utm_content=DAGrkpC5Kv4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+![Buyget Notcore processor chip](20250627_180814_0000.jpg)
 
 # Hi, I'm JoshuaHonu! 👋
 
