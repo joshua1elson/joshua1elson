@@ -1,4 +1,5 @@
-![Buyget Notcore processor chip](https://photos.app.goo.gl/V8AHPmEdfGt5nc8v5)
+![Alt text for your image](https://drive.google.com/file/d/1y5uB74qbmxXpbs160a4kR3Wo7RURkFd7/view?usp=drivesdk)
+
 
 # Hi, I'm JoshuaHonu! 👋
 
