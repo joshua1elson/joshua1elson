@@ -1,4 +1,4 @@
-![Alt text for your image](https://drive.google.com/file/d/1y5uB74qbmxXpbs160a4kR3Wo7RURkFd7/view?usp=drivesdk)
+![Alt text for the image](https://drive.google.com/uc?export=view&id=1y5uB74qbmxXpbs160a4kR3Wo7RURkFd7)
 
 
 # Hi, I'm JoshuaHonu! 👋
