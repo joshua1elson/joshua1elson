@@ -1,4 +1,4 @@
-![Buyget Notcore processor chip](20250627_180814_0000.jpg)
+![Buyget Notcore processor chip](https://photos.app.goo.gl/V8AHPmEdfGt5nc8v5)
 
 # Hi, I'm JoshuaHonu! 👋
 
